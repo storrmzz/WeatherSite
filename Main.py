@@ -1,4 +1,4 @@
-import tkinter as tköl
+import tkinter as tk
 import requests
 
 def getWeather():
